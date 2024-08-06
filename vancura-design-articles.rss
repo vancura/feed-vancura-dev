@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[Václav Vančura’s Articles]]></title>
+        <description><![CDATA[Explore articles by Václav Vančura, Senior Product Designer & Design Engineer. Topics cover UI/UX, accessibility, design systems, and bridging design with development.]]></description>
+        <link>https://vancura.design/articles</link>
+        <image>
+            <url>https://framerusercontent.com/images/7lujXFkuf2AFZKsRcM3qxNqMI8.png</url>
+            <title>Articles</title>
+            <link>https://vancura.design/articles</link>
+        </image>
+        <lastBuildDate>Tue, 06 Aug 2024 05:24:51 GMT</lastBuildDate>
+        <atom:link href="https://feeds.vancura.dev/vancura-design-articles.rss" rel="self"
+            type="application/rss+xml" />
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Accessibility improvements in Visual Studio 2019 for Mac]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/yLaBdDgUxKRGlAkxlosSddu6YM.jpg" style="width: 100%;" /><div>Dive into the groundbreaking accessibility enhancements in Visual Studio 2019 for Mac. Learn how we’ve revolutionized icon design and error messaging to create a more inclusive development environment.</div></div>]]></description>
+            <link>https://vancura.design/a/accessibility-improvements-in-visual-studio-2019-for-mac</link>
+            <guid isPermaLink="false">bf9a15506b0350109b06448462403939</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Thu, 30 May 2024 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/yLaBdDgUxKRGlAkxlosSddu6YM.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[My three GPTs now on the OpenAI GPT Store]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/YKetWpdJPnFvN1JdPMj8cDWjM4M.jpg" style="width: 100%;" /><div>Explore my trio of custom GPTs, now live on the OpenAI GPT Store. From boosting productivity to sparking creativity, discover how these AI tools can elevate your work and inspire innovation.</div></div>]]></description>
+            <link>https://vancura.design/a/my-three-gpts</link>
+            <guid isPermaLink="false">67b96e500529cc1f265679ca13aebda8</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/YKetWpdJPnFvN1JdPMj8cDWjM4M.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[Transforming design collaboration: how Hylke and I introduced Figma to Microsoft]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/images/0IdOiQtKqW5mj4QhfbTX4edqZg.png" style="width: 100%;" /><div>Uncover the story of how we pioneered Figma adoption at Microsoft, reshaping design workflows for thousands. This game-changing initiative redefined collaboration across one of tech’s biggest players.</div></div>]]></description>
+            <link>https://vancura.design/a/figma-microsoft-design-revolution</link>
+            <guid isPermaLink="false">3ea149f61eb5313f0c27dde56a0d0319</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2022 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/images/0IdOiQtKqW5mj4QhfbTX4edqZg.png" />
+        </item>
+        <item>
+            <title><![CDATA[Designing UIs for developer tools]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/images/0IdOiQtKqW5mj4QhfbTX4edqZg.png" style="width: 100%;" /><div>Explore how Microsoft DevDiv designs developer tools. Watch our talk on accessibility, UX challenges, and color stories in UI design for dev tools.</div></div>]]></description>
+            <link>https://vancura.design/a/designing-uis-for-developer-tools</link>
+            <guid isPermaLink="false">10cccc4166cee46ca5de90a17846c0db</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Wed, 13 Jan 2021 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/images/0IdOiQtKqW5mj4QhfbTX4edqZg.png" />
+        </item>
+        <item>
+            <title><![CDATA[macOS Big Sur icon template]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/jtDGfpyJR8qgi69zj8I1XaIOkY.jpg" style="width: 100%;" /><div>Pixel-perfect macOS icon design template with grid & export options available. Kickstart your design on my Figma Community page.</div></div>]]></description>
+            <link>https://vancura.design/a/macos-big-sur-icon-template</link>
+            <guid isPermaLink="false">ce836431c1e68ad8ee983198b6d02791</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/jtDGfpyJR8qgi69zj8I1XaIOkY.jpg" />
+        </item>
+    </channel>
+</rss>

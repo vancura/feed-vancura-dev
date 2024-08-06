@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[Václav Vančura’s Projects]]></title>
+        <description><![CDATA[View projects by Václav Vančura, showcasing 25+ years of product design expertise. Featuring work from Microsoft, Xamarin, and innovative design solutions.]]></description>
+        <link>https://vancura.design/projects</link>
+        <image>
+            <url>https://framerusercontent.com/images/7lujXFkuf2AFZKsRcM3qxNqMI8.png</url>
+            <title>Projects</title>
+            <link>https://vancura.design/projects</link>
+        </image>
+        <lastBuildDate>Tue, 06 Aug 2024 05:41:49 GMT</lastBuildDate>
+        <atom:link href="https://feeds.vancura.dev/vancura-design-projects.rss" rel="self"
+            type="application/rss+xml" />
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[High–density Fluent]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/6yH4vbs8YXL3oWDZ2ilDp3t1Uw.jpg" style="width: 100%;" /><div>After Microsoft announced the Fluent Design System in 2017, I was assigned to integrate its design aesthetics into our visually demanding developer applications.</div></div>]]></description>
+            <link>https://vancura.design/p/high-density-fluent</link>
+            <guid isPermaLink="false">dc33c7bdae223a39451ebddef8f3b4bc</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <pubDate>Mon, 01 Feb 2016 12:00:00 GMT</pubDate>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/6yH4vbs8YXL3oWDZ2ilDp3t1Uw.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[Visual Studio for Mac 17]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/OmyRmHyaIw853vKvnMh64JXie8.jpg" style="width: 100%;" /><div>After years of dreaming about the future of Xamarin Studio and then Visual Studio for Mac, I directed the redesign, and created a new, modern application style.</div></div>]]></description>
+            <link>https://vancura.design/p/visual-studio-for-mac-17</link>
+            <guid isPermaLink="false">21e6736bc39dcdc316433599a480f584</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/OmyRmHyaIw853vKvnMh64JXie8.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[Xamarin macOS application icons]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/I64jBz08wbi17ZUsMsDXl9NNGQ.jpg" style="width: 100%;" /><div>See the macOS application icons I designed for Xamarin Studio, Sketches, Workbooks, Visual Studio Code, and Visual Studio for Mac.</div></div>]]></description>
+            <link>https://vancura.design/p/xamarin-macos-application-icons</link>
+            <guid isPermaLink="false">e7559e3e09a9634285a8f9835daa36d5</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/I64jBz08wbi17ZUsMsDXl9NNGQ.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[Welcome Screen]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/Q2i0Ltm5sQgQevkKVhAS1pxY3Q.jpg" style="width: 100%;" /><div>Learn about the evolution of the first screen in Xamarin Studio and Visual Studio for Mac.</div></div>]]></description>
+            <link>https://vancura.design/p/welcome-screen</link>
+            <guid isPermaLink="false">fb285e3510ada63f3d9d1488d5a15bf8</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/Q2i0Ltm5sQgQevkKVhAS1pxY3Q.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[Fork icons]]></title>
+            <description><![CDATA[<div><img src="https://framerusercontent.com/assets/WjUa9nR2cVfCpq0fKDXI2Oq5mw.jpg" style="width: 100%;" /><div>See the macOS application icons I designed for Fork, a fast and friendly Git client for Mac and Windows.</div></div>]]></description>
+            <link>https://vancura.design/p/fork-icons</link>
+            <guid isPermaLink="false">70f6896ce42d9fd72f8e6c9fddb38086</guid>
+            <dc:creator><![CDATA[vancura.design]]></dc:creator>
+            <media:content medium="image"
+                url="https://framerusercontent.com/assets/WjUa9nR2cVfCpq0fKDXI2Oq5mw.jpg" />
+        </item>
+    </channel>
+</rss>
