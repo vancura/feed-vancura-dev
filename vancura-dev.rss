@@ -14,18 +14,28 @@
             <link>https://vancura.dev/articles</link>
         </image>
 
-        <lastBuildDate>Fri, 01 May 2026 09:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 12:00:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.vancura.dev/vancura-dev-articles.rss" rel="self" type="application/rss+xml" />
         <language><![CDATA[en]]></language>
+
+        <item>
+            <title><![CDATA[99 Resumes]]></title>
+            <description><![CDATA[<div><img src="https://feed.vancura.dev/vancura-dev/99-resumes.webp" style="width: 100%;" /><div>99 Resumes</div></div>]]></description>
+            <link>https://vancura.dev/articles/99-resumes</link>
+            <guid>https://vancura.dev/articles/99-resumes</guid>
+            <dc:creator><![CDATA[Václav Vančura]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+            <media:content medium="image" url="https://feed.vancura.dev/vancura-dev/99-resumes.webp" />
+        </item>
 
         <item>
             <title><![CDATA[Many Plans]]></title>
             <description><![CDATA[<div><img src="https://feed.vancura.dev/vancura-dev/many-plans.webp" style="width: 100%;" /><div>I am a man of many plans. This article is the sourdough of my blog. Welcome.</div></div>]]></description>
             <link>https://vancura.dev/articles/many-plans</link>
-            <guid isPermaLink="false">a1f3e7c92b4d6f8a0c5e2b8d4f7a1c93</guid>
+            <guid>https://vancura.dev/articles/many-plans</guid>
             <dc:creator><![CDATA[Václav Vančura]]></dc:creator>
             <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
-            <media:content medium="image" url="https://feed.vancura.dev/vancura-dev/many-plans.jpg" />
+            <media:content medium="image" url="https://feed.vancura.dev/vancura-dev/many-plans.webp" />
         </item>
     </channel>
 </rss>
