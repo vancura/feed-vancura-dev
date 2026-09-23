@@ -14,8 +14,8 @@
             <link>https://vancura.dev/articles</link>
         </image>
 
-        <lastBuildDate>Fri, 15 May 2026 12:00:00 GMT</lastBuildDate>
-        <atom:link href="https://feeds.vancura.dev/vancura-dev-articles.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 23 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <atom:link href="https://feed.vancura.dev/vancura-dev.rss" rel="self" type="application/rss+xml" />
         <language><![CDATA[en]]></language>
 
         <item>
