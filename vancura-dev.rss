@@ -19,8 +19,18 @@
         <language><![CDATA[en]]></language>
 
         <item>
+            <title><![CDATA[All Engine and No Game]]></title>
+            <description><![CDATA[<div><img src="https://feed.vancura.dev/vancura-dev/all-engine-and-no-game.webp" style="width: 100%;" /><div>Nine months on one game engine. 320×200, 256 colors, like it’s 1994. Still no game.</div></div>]]></description>
+            <link>https://vancura.dev/articles/all-engine-and-no-game</link>
+            <guid>https://vancura.dev/articles/all-engine-and-no-game</guid>
+            <dc:creator><![CDATA[Václav Vančura]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+            <media:content medium="image" url="https://feed.vancura.dev/vancura-dev/all-engine-and-no-game.webp" />
+        </item>
+
+        <item>
             <title><![CDATA[99 Resumes]]></title>
-            <description><![CDATA[<div><img src="https://feed.vancura.dev/vancura-dev/99-resumes.webp" style="width: 100%;" /><div>99 Resumes</div></div>]]></description>
+            <description><![CDATA[<div><img src="https://feed.vancura.dev/vancura-dev/99-resumes.webp" style="width: 100%;" /><div>Ten months. Roughly a hundred applications. Fifty-three declined, forty-four never replied, and ten I walked away from. This is what looking for work at forty-seven looked like.</div></div>]]></description>
             <link>https://vancura.dev/articles/99-resumes</link>
             <guid>https://vancura.dev/articles/99-resumes</guid>
             <dc:creator><![CDATA[Václav Vančura]]></dc:creator>
